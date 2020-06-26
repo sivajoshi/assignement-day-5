@@ -19,8 +19,8 @@ O/P:
 [5, 7, 97, 77, 23, 73, 61]
 [True, True, False, True, False, False, True, True, True, True]
 
-2.def isPrime(x): 
-    for n in range(2,x): 
+2.def isPrime(x):                                                                                                                                                                   
+    for n in range(2,x):                                                                                                                                                           
         if x%n==0: 
             return False
         else:
